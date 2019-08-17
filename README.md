@@ -1,24 +1,23 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blogger is a simple blog site created by following the tutorial found [here](http://tutorials.jumpstartlab.com/projects/blogger.html). It was a fun way to learn Ruby on Rails. I noticed there were a lot of similarities to ASP.NET MVC pattern.
 
-Things you may want to cover:
+## Features
+These are some of the features of the simple blog:
+* Create/Edit/Delete posts
+* Upload pictures
+* Leave comments
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+To run this application, you can find it here: [https://protected-ravine-84338.herokuapp.com/](https://protected-ravine-84338.herokuapp.com/)
 
-* Configuration
+Alternatively, you can clone the project and run the project using `rails server`
 
-* Database creation
+## Built With
 
-* Database initialization
+Ruby on Rails
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **Kevin Harvell** - [KevHarvell](https://github.com/kevharvell)
